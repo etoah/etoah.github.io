@@ -1,4 +1,4 @@
 Lucien
 ======
 
-First repository
+just practice my front-end skills
